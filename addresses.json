@@ -1,12 +1,12 @@
 {
-  "btc": "replace_me_btc",
-  "xmr": "replace_me_xmr",
-  "eth": "replace_me_eth",
-  "dash": "replace_me_dash",
-  "xrp": "replace_me_xrp",
-  "doge": "replace_me_doge",
-  "ada": "replace_me_ada",
-  "lite": "replace_me_lite",
-  "dot": "replace_me_dot",
-  "tron": "replace_me_tron"
+  "btc": "bc1q6e43tlkxvrh3ld8gvgv6au82776040ymna29d5",
+  "xmr": "46THsHEDcHCGnD9K8hzFTWPJ2AvxatdJk642oDMX6vaVMacKgCTqKPgUk8kvqkKqR52HQFh3BYm3XEoJ268p9wHeSrc1Hfb",
+  "eth": "0xa246ca2E97b86166fCe8DBbA6F8463Ee4035182a",
+  "dash": "Xq88rC1fVzGE2SMfhCUC2GDWSwVKBgW8xJ",
+  "xrp": "rhtHmRUdtjMJan4yB1rDF6zVgsyoxmvEth",
+  "doge": "DCwzAGTGdQ8Gu2fduqucQ59ssEqaobicMZ",
+  "ada": "addr1qxy453q6y5ym0keq64exhswpfj0h9cwaypnzasdp3emrpcvftfzp5fgfkldjp4tjd0quznylwtsa6grx9mq6rrnkxrss6edgv3",
+  "lite": "LVQJPQSmVMEpbYctAzuN38k9umY25k6Zkp",
+  "dot": "1rdkgY7WnHwX7ocKdHXT1Ld9PdabZQCKd1XkQQXnqst2o2W",
+  "tron": "TXo7uFLSww3GZRjUuqQY53UyYUDKyCumgU"
 }
